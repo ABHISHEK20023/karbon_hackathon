@@ -1,0 +1,22 @@
+{
+    "financials": [
+        {
+            "year": "2022-03-31",
+            "nature": "STANDALONE",
+            "pnl": {
+                "lineItems": {
+                    "net_revenue": 6717840,
+                    "profit_before_interest_and_tax": 139810,
+                    "depreciation": 474270,
+                    "interest": 0
+                }
+            },
+            "bs": {
+                "liabilities": {
+                    "short_term_borrowings": 2560050,
+                    "long_term_borrowings": 0
+                }
+            }
+        }
+    ]
+}
